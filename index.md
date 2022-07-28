@@ -3,7 +3,7 @@
 **List project learning**
 
 1. [About me](https://khoir-roni.github.io/About-me/)
-2. [Calculator](https://khoir-roni.github.io/About-me/)
+2. [Calculator](https://khoir-roni.github.io/calculator/)
 3. [Wisata bandung](https://khoir-roni.github.io/wisata_bandung/)
 4. [Plant App](https://khoir-roni.github.io/plant_app/)
 5. [Travel Ui](https://khoir-roni.github.io/flutter_travel_ui)
